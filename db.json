@@ -1,0 +1,22 @@
+{
+    "facturas": [
+      {
+        "id": 1,
+        "cliente": "Antonio",
+        "importe": 50.0,
+        "fecha": "2000-03-11"
+      },
+      {
+        "id": 2,
+        "cliente": "Vanesa",
+        "importe": 8,
+        "fecha": "1998-03-1"
+      },
+      {
+        "id": 3,
+        "cliente": "Eugenio",
+        "importe": 400,
+        "fecha": "1996-03-11"
+      }
+    ]
+  }
